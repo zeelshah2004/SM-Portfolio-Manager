@@ -1,6 +1,6 @@
 # Stock-Market-Portfolio-Manager
 <br>
-**Three Jupyter files namely smeet,zeel,sumit contains all the stock data's**
+**Three Jupyter files namely smeet,zeel,sumit contains all the stock data's **
 <br>
 Scraping Data is done with moneycontrol sites.
 <br>
