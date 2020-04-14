@@ -1,5 +1,4 @@
-**link of video**-->https://www.dropbox.com/home/Bandicam?preview=Explanation.mp4
-
+**link of video**-->https://drive.google.com/open?id=1d-O9fGR71GcZkkXhrtFR84ZGvk6jV-1Q
 **First API**
 <br>
 **sklearn.preprocessing** for Scaling data Using MinMaxScaler 
