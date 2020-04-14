@@ -1,22 +1,16 @@
-# Stock-Market-Portfolio-Manager
+**First API**
 <br>
-**Three Jupyter files namely smeet,zeel,sumit contains all the stock data's **
+**sklearn.preprocessing** for Scaling data Using MinMaxScaler 
 <br>
-Scraping Data is done with moneycontrol sites.
+**Second API**
 <br>
-**First API** Used is **nsetools & pandas** to get ISIN Code of Stock Solo described in nsetools IPYNB File as well as heavy use of **pandas** to get data
+**Tensorflow** models are used to predict Stock Market Prices.
 <br>
-Scraping data of stock market using **scrapy**, but seems that is not optimized pandas when it comes to **DataFrames**
+**LSTM** jupyter file contains model of Stock Prediction
 <br>
-Others API can also be used like **yahoofinance** for Stocks of **USA** not productive for India
+**Third API --> Consists of 1)nsetools 2)pandas_datawebreader 3)yahoo finance 4)Kaggle  5)Varoius sites BSE NSE Sites etc data scraped from different websites including bhavcopy**
 <br>
-Using **Kaggle** Csv file contain Stock ticker symbol and ISIN Code's more easily than nsetools
+**1)smeet 2)sumit 3)zeel 4)nsetools 5)Infosys 6)Equity_L from kaggle contains all the scraped data 
 <br>
-<br>
-Not Using **mongodb** becuase **django** inbuilt provides **sqllite3** 
-<br>
-<br>
-
-Regardless Of We have predicted **Infosys** Stock Using **sklearn , Tensorflow**. which is consirderd as **Second-API**
-<br>
-**3 API is django** for well visulization of Things we have scraped.
+**Fourth API** **django** is Used for all visulization purposes..
+**Thank You Very Much Sir** For Question of your assesment you can definetly ask in Issue's
